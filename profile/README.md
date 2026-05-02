@@ -31,7 +31,7 @@ ScriptForge 是一个专注于 **C++ 开发**的开源组织，由热爱编程�
 ## 组织核心项目
 以下为本组织旗下开源项目，长期持续维护更新，欢迎 Star、Fork 与代码贡献 🌟
 
-- **Scriptforge**（[仓库链接](https://github.com/ScriptForge6/Scriptforge)）  
+- **Scriptforge**（[仓库链接](https://github.com/ScriptForge6/Scriptforge-xmake)[仓库链接(旧)](https://github.com/ScriptForge6/Scriptforge)）  
 基于 C++23 构建的通用基础工具库，封装高频通用功能，简化日常开发流程。
 
 - **HideWindow**（[仓库链接](https://github.com/ScriptForge6/HideWindow)）  

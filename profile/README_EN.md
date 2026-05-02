@@ -32,7 +32,7 @@ Adhering to the development philosophy of *Simplicity & Practicality, Continuous
 Below are our open-source projects under long-term maintenance and iteration.
 Star, Fork and Contributions are highly welcomed 🌟
 
-- **Scriptforge** ([Repository](https://github.com/ScriptForge6/Scriptforge))  
+- **Scriptforge** ([Repository](https://github.com/ScriptForge6/Scriptforge-xmake)[Repository(old)](https://github.com/ScriptForge6/Scriptforge))  
 A general-purpose utility library built on C++23, encapsulating commonly used functions to accelerate daily development.
 
 - **HideWindow** ([Repository](https://github.com/ScriptForge6/HideWindow))  
