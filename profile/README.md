@@ -25,7 +25,7 @@ ScriptForge 是一个专注于 **C++ 开发**的开源组织，由热爱编程�
 📧 邮箱：scriptforge@outlook.com 
 💬 QQ：3974142081
 
-📺 Bilibili：Scriptforge 脚本锻造
+📺 Bilibili：Scriptforge
 🌐 个人网站：scriptforge666.github.io
 
 ## 组织核心项目
